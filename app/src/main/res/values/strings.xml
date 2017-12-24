@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Application_GhiNhatKy</string>
+    <string name="add_logs">Add logs</string>
+    <string name="action_settings">Add logs</string>
 </resources>
